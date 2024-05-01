@@ -6,6 +6,4 @@ Clone the repository
 run npm install
 run npm start
 
-# See Our Latest Video Editor
-https://www.amooiz.com
 
